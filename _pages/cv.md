@@ -93,7 +93,7 @@ Skills
 
 Scientific editing
 ======
-* Freelance scientific editor since 2019: language and developmental editing of manuscripts in the life sciences and medicine for authors who write in English as a second language
+* Freelance scientific editor since 2019: language and developmental editing of more than 1,000 manuscripts in the life sciences and medicine, principally for authors who write in English as an additional language. Details on the [Editing]({{ base_path }}/editing/) page.
 
 Languages
 ======

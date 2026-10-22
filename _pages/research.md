@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My research asks how the visual system regulates sleep and circadian behaviour, and which neurons carry visual signals to sleep and clock circuits. I use *Drosophila melanogaster* because its genetic tools allow manipulation of single cell types, and its connectome allows the anatomical pathways to be mapped at synaptic resolution.
+My research asks how sensory information, visual information in particular, is processed by neural circuits and converted into behaviour. In my PhD I addressed this question for one behavioural output, sleep: which visual neurotransmission is required for sleep, and which neurons carry the visual signal to sleep and clock circuits. My current connectome work addresses a second output, by tracing visual projection neurons to the descending neurons that control movement. I use *Drosophila melanogaster* because its genetic tools allow manipulation of single cell types, and its connectome allows the anatomical pathways to be mapped at synaptic resolution.
 
 Visual neurotransmission and sleep
 ------

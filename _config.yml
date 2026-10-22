@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Mehran Akhtar"
 title_separator          : "-"
 name                     : &name "Mehran Akhtar"
-description              : &description "Mehran Akhtar, PhD. Drosophila neurogenetics: sleep, circadian rhythm and visual circuits."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Mehran Akhtar, PhD. Drosophila neuroscience: sensory processing and the neural circuits of behaviour."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mehranakhtar.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mehran Akhtar, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Drosophila neurogeneticist. Sleep, circadian rhythm, visual circuits and connectomics."
+  bio              : "Drosophila neuroscientist. Neural circuits from sensory input to behaviour."
   location         : 
   employer         : "PhD, University of Leicester"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mehranakhtar"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mehranakhtar94"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
